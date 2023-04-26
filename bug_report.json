@@ -6,7 +6,7 @@
       "Navigate to https://website.com",
       "On the main page at the bottom, click on the link [Completed tasks]",
       "Remove the checkbox from 'Task 12'"
-    ]
+    ],
   "actual_result": "When you click on the checkbox, its state does not change. The task does not go to the main list",
   "expected result": "The checkbox will change the status \"not selected\", the task will move from the \"Completed tasks\" list to the main task list",
   "attachments": "link"
